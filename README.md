@@ -1,6 +1,6 @@
 # mydrawer_testapp
 
-A new Flutter project.
+flutter-zoom-drawer
 
 ## Getting Started
 
